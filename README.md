@@ -1,3 +1,12 @@
+# REACT-INSTAGRAM-CLONE using NEXTJS, RECOIL, FIREBASE v9, TAILWIND, NEXT AUTH [GOOGLE]
+
+
+DEPLOYED ON VERCEL ~ https://react-instagram-clone-fo5mawpwm-rohangore1999.vercel.app/
+
+
+----------------------------------------------------------------------------------------------------------
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
