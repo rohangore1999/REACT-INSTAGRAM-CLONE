@@ -1,0 +1,14 @@
+NEXTAUTH_URL ://react-instagram-clone-bjpi0e0lj-rohangore1999.vercel.app/  <<< '/' impp
+
+
+Authorized JavaScript origins
+https://react-instagram-clone-bjpi0e0lj-rohangore1999.vercel.app
+
+
+Authorized redirect URIs
+https://react-instagram-clone-bjpi0e0lj-rohangore1999.vercel.app/api/auth/callback/google
+
+
+
+website
+https://react-instagram-clone-bjpi0e0lj-rohangore1999.vercel.app/
