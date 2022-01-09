@@ -1,0 +1,8 @@
+NEXT JS wuth GOOGLE PROVIDER
+
+
+1) Add google_client_secret and google_client_id to the environment var
+
+2) Try to signup and after that in URL it will give you long url copy that and put it in NEXTAUTH_URL var, in GCP both side
+
+3) and try with that url only to visit
