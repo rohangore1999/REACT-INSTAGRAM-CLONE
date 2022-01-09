@@ -15,7 +15,6 @@ export default function Home() {
         <meta property="og:title" content="" />
         <meta property="og:type" content="" />
         <meta property="og:image" content="./favicon.png" />
-        <meta property="og:url" content={window.location.pathname + window.location.search} />
         <meta name="twitter:card" content="summary_large_image" />
 
         <meta property="og:description" content="" />
