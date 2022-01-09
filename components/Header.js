@@ -64,8 +64,8 @@ function Header() {
                 {/* space-x-4 >>> child component spacing */}
                 <div className="flex items-center justify-end space-x-4">
                     <HomeIcon onClick={() => router.push('/')} className="navBtn" />
-                    <MenuIcon className="h-6 md:hidden cursor-pointer" /> {/* md screen and above it will hide */}
-
+                    {/* <MenuIcon className="h-6 md:hidden cursor-pointer" /> md screen and above it will hide */}
+                    <PlusCircleIcon onClick={() => setOpen(true)} className=" sm:h-16 w-16 md:hidden lg:h-10 w-10" />
                     {session ? (
                         <>
                             <div className="relative navBtn">
