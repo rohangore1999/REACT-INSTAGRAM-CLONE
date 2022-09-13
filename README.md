@@ -1,4 +1,4 @@
-# REACT-INSTAGRAM-CLONE using NEXTJS, RECOIL, FIREBASE v9, TAILWIND, NEXT AUTH [GOOGLE]
+# REACT-INSTAGRAM-CLONE using NEXTJS, RECOIL, FIREBASE v9, TAILWIND, NEXT AUTH [GOOGLE] with Custom Login Page
 
 
 DEPLOYED ON VERCEL ~ https://react-instagram-clone-fo5mawpwm-rohangore1999.vercel.app/
